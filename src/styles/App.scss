@@ -1,0 +1,9 @@
+@import "./scss/resets.scss";
+body {
+  background: url("https://i.ibb.co/MRMTF82/bosque.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+@import "./scss/components/Form/Form.scss";
+@import "./scss/components/Navbar/Navbar.scss";
